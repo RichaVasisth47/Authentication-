@@ -1,0 +1,13 @@
+# Mac system files
+.DS_Store
+
+# Python & Virtual Environment
+venv/
+__pycache__/
+*.pyc
+
+# Flask instance & database folders
+instance/
+
+# Environment variables
+.env
